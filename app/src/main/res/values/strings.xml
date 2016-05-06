@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Biton</string>
+<string name="label">Biton</string>
+<string name="login_activity_username_label">Gebruikersnaam</string>
+<string name="login_activity_password_label">Wachtwoord</string>
+<string name="login_activity_ok_button">Inloggen</string>
+<string name="login_activity_loginfail_text_both">Gebruikersnaam of wachtwoord is onbekend. Probeer het nog eens.</string>
+<string name="login_activity_loginfail_text_pwonly">Ongeldig wachtwoord. Voer je wachtwoord nogmaals in.</string>
+<string name="login_activity_loginfail_text_pwmissing">Het veld Wachtwoord is verplicht.</string>
+<string name="login_activity_newaccount_text">Log in met je Biton.nl gebruikersnaam.</string>
+<string name="ui_activity_authenticating">Inloggen\u2026</string>
+<string name="ui_activity_title">Gebruikerslogin</string>
+</resources>
